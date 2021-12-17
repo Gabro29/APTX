@@ -29,3 +29,6 @@ Link Mega per il download: https://mega.nz/file/JfpQnC6I#tTJxYn47rqvs5qli2VN8-F-
 Contatto mail: gabri729@gmail.com
 
 Canale YouTube: https://www.youtube.com/channel/UCkGvbGqYzDi3lfgtbQ_pngg
+
+
+Il codice sorgente è il file main.py
