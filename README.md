@@ -21,6 +21,7 @@ Infine si può effettuare una ricerca specifica se si utilizzano delle particola
             si parla dei M.I.B.
 
 L'applicazione non richiede nessun permesso speciale per essere eseguita ed è pronta da installare (testata su dispositivi Samsung e Huawei).
+
 Il file come_si_usa.mp4 è un video chiaramente auto esplicativo.
 
 Grazie per eventuali feedback e per averla installata.
