@@ -25,6 +25,7 @@ L'applicazione non richiede nessun permesso speciale per essere eseguita ed è p
 Grazie per eventuali feedback e per averla installata.
 
 Link Mega per il download: https://mega.nz/file/JfpQnC6I#tTJxYn47rqvs5qli2VN8-F-Rwo2IJcEcOa0chMmQzto
+
 Contatto mail: gabri729@gmail.com
 
 Canale YouTube: https://www.youtube.com/channel/UCkGvbGqYzDi3lfgtbQ_pngg
