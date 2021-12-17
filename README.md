@@ -17,7 +17,7 @@ Infine si può effettuare una ricerca specifica se si utilizzano delle particola
 - tempo --> Mostra tutti gli episodi in cui vengono fatti cenni temporali anche minimi.
             Si tratta di una selezione personale dove sono presenti anche episodi non canonici.
 - canon --> Mostra tutti gli episodi canonici. Anche questa così come la lista degli episodi in cui vengono fatti cenni
-            temorali è del tutto personale. Infatti ho tenuto conto tutti gli episodi dove anche solo in minima parte
+            temporali è del tutto personale. Infatti ho tenuto conto tutti gli episodi dove anche solo in minima parte
             si parla dei M.I.B.
 
 L'applicazione non richiede nessun permesso speciale per essere eseguita ed è pronta da installare (testata su dispositivi Samsung e Huawei).
