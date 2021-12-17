@@ -1,0 +1,2 @@
+# APTX
+Detective Conan Application
